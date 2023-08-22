@@ -21,7 +21,7 @@ The hardware components are connected as follows:
 
 - Connect the Soil Moisture Sensor to the analog pin A0 of NodeMCU.
 - Connect the DHT11 Sensor to the digital pin D4 of NodeMCU.
-- Connect the Relay Module to the digital pin D8 of NodeMCU.
+- Connect the Relay Module to the digital pin D5 of NodeMCU.
 - Connect the Water Pump to the Relay Module.
 - Power the NodeMCU using a USB cable.
 

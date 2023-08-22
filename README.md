@@ -5,8 +5,10 @@
 The Plant Monitoring System is an IoT-based solution designed to automate and enhance the care of plants by monitoring soil moisture, temperature, and humidity levels. This repository contains the code and details for the project.
 
 ![Web App](./files/web.png)
-![Mobile App](./files/mobile.png)
-![Full Real Picture](./files/Project_full.png)
+
+![Mobile App](./files/mobile.jpg)
+
+![Full Real Picture](./files/Project_full.jpeg)
 
 ## Features
 
@@ -14,6 +16,10 @@ The Plant Monitoring System is an IoT-based solution designed to automate and en
 - Temperature and humidity monitoring for optimal plant growth conditions.
 - Remote access and control through IoT platform (Blynk).
 - Water pump automation based on soil moisture levels.
+
+## Video
+
+![Project Video](./video/plant_monitoring_system.mp4)
 
 ## Components Used
 

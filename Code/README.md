@@ -53,7 +53,7 @@ The hardware components are connected as follows:
 ## Acknowledgments
 - [Blynk](https://blynk.io/) for providing the IoT platform.
 - [Adafruit](https://www.adafruit.com/) for the DHT11 sensor library.
-- Arduino IDE
+- Arduino IDE for uploading code 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
